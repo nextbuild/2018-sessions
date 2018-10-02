@@ -14,6 +14,7 @@ This repo contains slides, content or references as published by the speaker aft
 - [From EventStorming to CoDDDing - João Rosa & Kenny Baas](https://speakerdeck.com/baasie/from-eventstorming-to-coddding-at-nextbuildconf)
 - [Writing a Reactive Cloud-Friendly Kinesis Client with Spring and Reactor - Nikola Yovchev](./content/cloud_friendly_kinesis.pptx)
 - [Skyrocketing Development Of Your Microservices With Micronaut- Hubert Klein Ikkink](https://github.com/mrhaki/nextbuild2018-micronaut)
+- [Serverless @ Studyportals: A Bird’s-eye View - Daniel Papukchiev](https://goo.gl/4fyTVt)
 - [Docker tips for Cloud Native Java Developers - Aparna Chaudhary](https://www.slideshare.net/aparnachaudhary/docker-tipsforjavadevelopers)
 - [Eclipse MicroProfile: A new standard for building Microservices? - Edwin Derks](./content/eclipse-micro-profile.zip)
 - [Unidirectional Data Flow Architecture: From Swift to JS and Back Again - Stefan van den Oord](https://github.com/svdo/UnidirectionalFlowTalk.)
