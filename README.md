@@ -4,6 +4,7 @@
 This repo contains slides, content or references as published by the speaker after the talk.
 
 ## References and Content
+- [Software Architecture for Developers - Simon Brown](./content/nextbuild2018-software-architecture-for-developers)
 - [Think Reactive - Roman Melnyk](https://melnyk.site/post/9)
 - [Ultra short time to market with AI? It is possible! - Stefan van den Borre](./content/ultra_short_time_ai.pdf)
 - [Give (native) mobile development speed with React Native - Puck van Osch & Wouter van den Broek](./content/synappz_nextbuild_2018.key)
