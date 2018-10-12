@@ -21,5 +21,6 @@ This repo contains slides, content or references as published by the speaker aft
 - [Docker tips for Cloud Native Java Developers - Aparna Chaudhary](https://www.slideshare.net/aparnachaudhary/docker-tipsforjavadevelopers)
 - [Eclipse MicroProfile: A new standard for building Microservices? - Edwin Derks](./content/eclipse-micro-profile.zip)
 - [Unidirectional Data Flow Architecture: From Swift to JS and Back Again - Stefan van den Oord](https://github.com/svdo/UnidirectionalFlowTalk.)
+- [Over-engineering: The hidden monster - Mete Bulutay](./content/Over-Engineering_NextBuild2018.pdf)
 - [Creating a brain to outsmart a baby - Marianne Schimmel](https://www.slideshare.net/MarianneKrause/creating-a-brain-to-outsmart-a-baby)
 - [Property based testing in Elixir - Luc Tielen](./content/PBT_elixir_final.key)
