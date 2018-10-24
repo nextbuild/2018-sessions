@@ -1,5 +1,5 @@
 
-# Sessions NextBuild Software Confernce 2018
+# Sessions NextBuild Software Conference 2018
 
 This repo contains slides, content or references as published by the speaker after the talk.
 
